@@ -1,0 +1,29 @@
+hr{
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: teal;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    height: 270px;
+    border-radius: 8px;
+    padding: 5px;
+    
+    
+    
+}
+body{
+    background-color: #EAF6F6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: darkolivegreen;
+}
+h1{
+    color: teal;
+    
+    
+ }
+h3{
+    color: #66bfbf;
+}
